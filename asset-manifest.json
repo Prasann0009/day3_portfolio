@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/day3_portfolio/static/css/main.283ff19f.css",
+    "main.js": "/day3_portfolio/static/js/main.a4688cbc.js",
+    "index.html": "/day3_portfolio/index.html",
+    "main.283ff19f.css.map": "/day3_portfolio/static/css/main.283ff19f.css.map",
+    "main.a4688cbc.js.map": "/day3_portfolio/static/js/main.a4688cbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.283ff19f.css",
+    "static/js/main.a4688cbc.js"
+  ]
+}
